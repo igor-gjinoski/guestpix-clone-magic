@@ -18,6 +18,9 @@ export default {
 			}
 		},
 		extend: {
+			fontFamily: {
+				'lato': ['Lato', 'sans-serif'],
+			},
 			colors: {
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
@@ -60,6 +63,10 @@ export default {
 				navy: {
 					DEFAULT: 'hsl(var(--navy))',
 					light: 'hsl(var(--navy-light))'
+				},
+				'light-blue': {
+					DEFAULT: 'hsl(var(--light-blue))',
+					foreground: 'hsl(var(--light-blue-foreground))'
 				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
