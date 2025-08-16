@@ -23,7 +23,7 @@ const NoAppSection = () => {
           </p>
           
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            That's why we're thrilled to announce our latest update: the GUESTPIX™ host and guest interface are now available in Spanish, French, and German!
+            That's why we're thrilled to announce our latest update: the SNAPSHIVE™ host and guest interface are now available in Spanish, French, and German!
           </p>
         </div>
 
@@ -39,7 +39,7 @@ const NoAppSection = () => {
           
           <div className="max-w-4xl mx-auto">
             <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
-              With GUESTPIX™ there's no need to ask all guests to download a photo sharing app or register! Your GUESTPIX™ event QR code / private link is how they add their best photos, videos and guestbook messages. Everyone will instantly enjoy the memories and you can download everything in a click.
+              With SNAPSHIVE™ there's no need to ask all guests to download a photo sharing app or register! Your SNAPSHIVE™ event QR code / private link is how they add their best photos, videos and guestbook messages. Everyone will instantly enjoy the memories and you can download everything in a click.
             </p>
             
             <h4 className="text-xl font-semibold text-navy mb-8">

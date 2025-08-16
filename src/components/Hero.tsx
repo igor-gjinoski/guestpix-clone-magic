@@ -17,7 +17,7 @@ const Hero = () => {
       {/* Content */}
       <div className="relative z-10 container mx-auto px-6 text-center text-white">
         <h2 className="text-lg md:text-xl font-medium mb-4 opacity-90">
-          Capture the memories forever with guestpix.
+          Capture the memories forever with snapshive.
         </h2>
         
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">

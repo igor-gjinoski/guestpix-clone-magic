@@ -28,7 +28,7 @@ const Features = () => {
         <div className="flex justify-center mb-16">
           <img 
             src={phoneMockup} 
-            alt="Phone showing guestpix interface" 
+            alt="Phone showing snapshive interface" 
             className="max-w-md w-full h-auto"
           />
         </div>
